@@ -1,2 +1,1 @@
-# pr-review-demo
-Sandbox for demonstrating a PR review round-trip
+Demo repository for the PR review walkthrough.
