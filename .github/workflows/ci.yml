@@ -1,0 +1,13 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    name: Placeholder lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder lint step
+        run: echo "No linter configured yet - replace this with a real lint step."
